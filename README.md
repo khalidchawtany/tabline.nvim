@@ -59,6 +59,10 @@ You can customize the behavior of this extension by setting values for any of th
 
   Show bufnr in tabline for each buffer (default = false)
 
+- `tabline_show_filename_only`
+
+  Show filename instead of filepath in tabline for each buffer (default = false)
+
 ## Usage
 
 `TablineBufferNext`
